@@ -1,0 +1,5 @@
+package monitores
+
+object EjerciciosClase {
+
+}
